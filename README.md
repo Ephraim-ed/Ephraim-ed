@@ -19,42 +19,27 @@
   <a href="https://github.com/Ephraim-ed"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=23D18B" /></a>
 </p>
 
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xLjE5NCA3LjU0M3Y4LjkxM2MwIDEuMTAzLjU4OCAyLjEyMiAxLjU0NCAyLjY3NGw3LjcxOCA0LjQ1NmEzLjA4NiAzLjA4NiAwIDAgMCAzLjA4OCAwbDcuNzE4LTQuNDU2YTMuMDg3IDMuMDg3IDAgMCAwIDEuNTQ0LTIuNjc0VjcuNTQzYTMuMDg0IDMuMDg0IDAgMCAwLTEuNTQ0LTIuNjczTDEzLjU0NC40MTRhMy4wODYgMy4wODYgMCAwIDAtMy4wODggMEwyLjczOCA0Ljg3YTMuMDg1IDMuMDg1IDAgMCAwLTEuNTQ0IDIuNjczWm01LjQwMyAyLjkxNHYzLjA4N2EuNzcuNzcgMCAwIDAgLjc3Mi43NzIuNzczLjc3MyAwIDAgMCAuNzcyLS43NzIuNzczLjc3MyAwIDAgMSAxLjMxNy0uNTQ2Ljc3NS43NzUgMCAwIDEgLjIyNi41NDYgMi4zMTQgMi4zMTQgMCAxIDEtNC42MzEgMHYtMy4wODdjMC0uNjE1LjI0NC0xLjIwMy42NzktMS42MzdhMi4zMTIgMi4zMTIgMCAwIDEgMy4yNzQgMGMuNDM0LjQzNC42NzggMS4wMjMuNjc4IDEuNjM3YS43NjkuNzY5IDAgMCAxLS4yMjYuNTQ1Ljc2Ny43NjcgMCAwIDEtMS4wOTEgMCAuNzcuNzcgMCAwIDEtLjIyNi0uNTQ1Ljc3Ljc3IDAgMCAwLS43NzItLjc3Mi43NzEuNzcxIDAgMCAwLS43NzIuNzcyWm0xMi4zNSAzLjA4N2EuNzcuNzcgMCAwIDEtLjc3Mi43NzJoLS43NzJ2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjU0NCAwdi0uNzcyaC0xLjU0NHYuNzcyYS43NzMuNzczIDAgMCAxLTEuMzE3LjU0Ni43NzUuNzc1IDAgMCAxLS4yMjYtLjU0NnYtLjc3MkgxMmEuNzcxLjc3MSAwIDEgMSAwLTEuNTQ0aC43NzJ2LTEuNTQzSDEyYS43Ny43NyAwIDEgMSAwLTEuNTQ0aC43NzJ2LS43NzJhLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2di43NzJoMS41NDR2LS43NzJhLjc3My43NzMgMCAwIDEgMS41NDQgMHYuNzcyaC43NzJhLjc3Mi43NzIgMCAwIDEgMCAxLjU0NGgtLjc3MnYxLjU0M2guNzcyYS43NzYuNzc2IDAgMCAxIC43NzIuNzcyWm0tMy4wODgtMi4zMTVoLTEuNTQ0djEuNTQzaDEuNTQ0di0xLjU0M1oiLz48L3N2Zz4%3D)
-![SQL](https://img.shields.io/badge/SQL-21262D?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-21262D?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-21262D?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-21262D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-21262D?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-21262D?style=for-the-badge&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-21262D?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-21262D?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Cloud, Data & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4zNzkgMjMuMzQzYTEuNjIgMS42MiAwIDAgMCAxLjUzNi0yLjE0di4wMDJMMTcuMzUgMS43NkExLjYyIDEuNjIgMCAwIDAgMTUuODE2LjY1N0g4LjE4NEExLjYyIDEuNjIgMCAwIDAgNi42NSAxLjc2TC4wODYgMjEuMjA0YTEuNjIgMS42MiAwIDAgMCAxLjUzNiAyLjEzOWg0Ljc0MWExLjYyIDEuNjIgMCAwIDAgMS41MzUtMS4xMDNsLjk3Ny0yLjg5MiA0Ljk0NyAzLjY3NWMuMjguMjA4LjYxOC4zMi45NjYuMzJtLTMuMDg0LTEyLjUzMSAzLjYyNCAxMC43MzlhLjU0LjU0IDAgMCAxLS41MS43MTN2LS4wMDFoLS4wM2EuNTQuNTQgMCAwIDEtLjMyMi0uMTA2bC05LjI4Ny02LjloNC44NTNtNi4zMTMgNy4wMDZjLjExNi0uMzI2LjEzLS42OTQuMDA3LTEuMDU4TDkuNzkgMS43NmExLjcyMiAxLjcyMiAwIDAgMC0uMDA3LS4wMmg2LjAzNGEuNTQuNTQgMCAwIDEgLjUxMi4zNjZsNi41NjIgMTkuNDQ1YS41NC41NCAwIDAgMS0uMzM4LjY4NCIvPjwvc3ZnPg%3D%3D)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDguODc3TDIuMjQ3IDUuOTFsOC40MDUtMy40MTZWLjAyMmw3LjM3IDUuMzkzTDIuOTY2IDguMzM4djguMjI1TDAgMTUuNzA3em0yNC00LjQ1djE0LjY1MWwtNS43NTMgNC45LTkuMzAzLTMuMDU3djMuMDU2bC01Ljk3OC03LjQxNiAxNS4wNTcgMS43OThWNS40MTV6Ii8%2BPC9zdmc%2B)
-![Vercel](https://img.shields.io/badge/Vercel-21262D?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-21262D?style=for-the-badge&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-21262D?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=white)
-
-**AI & Testing**
-
-![Claude](https://img.shields.io/badge/Claude-21262D?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2NTUtMS45NzI4VjExLjZhLjc2NjQuNzY2NCAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NzY1IDguMTA0MnYtNS42NzcyYS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM4LS4wNTY3VjYuMDc0MmE0LjQ5OTIgNC40OTkyIDAgMCAxIDcuMzc1Ny0zLjQ1MzdsLS4xNDIuMDgwNUw4LjcwNCA1LjQ1OWEuNzk0OC43OTQ4IDAgMCAwLS4zOTI3LjY4MTN6bTEuMDk3Ni0yLjM2NTRsMi42MDItMS40OTk4IDIuNjA2OSAxLjQ5OTh2Mi45OTk0bC0yLjU5NzQgMS40OTk3LTIuNjA2Ny0xLjQ5OTdaIi8%2BPC9zdmc%2B)
-![Playwright](https://img.shields.io/badge/Playwright-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy45OTYgNy40NjJjLS4wNTYuODM3LS4yNTcgMi4xMzUtLjcxNiAzLjg1LS45OTUgMy43MTUtNC4yNyAxMC44NzQtMTAuNDIgOS4yMjctNi4xNS0xLjY1LTUuNDA3LTkuNDg3LTQuNDEyLTEzLjIwMS40Ni0xLjcxNi45MzQtMi45NCAxLjMwNS0zLjY5NC40Mi0uODUzLjg0Ni0uMjg5IDEuODE1LjUyMy42ODQuNTczIDIuNDEgMS43OTEgNS4wMTEgMi40ODggMi42MDEuNjk3IDQuNzA2LjUwNiA1LjU4My4zNTIgMS4yNDUtLjIxOSAxLjg5Ny0uNDk0IDEuODM0LjQ1NVptLTkuODA3IDMuODYzcy0uMTI3LTEuODE5LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY3LTIuNjEzIDEuMDQtMi42MTMgMS4wNFptNC4wNTggNC41MzktNy43NjktMi4xNzJzLjQ0NiAyLjMwNiAzLjMzOCAzLjE1M2MyLjg2Mi44MzYgNC40My0uOTggNC40My0uOTgxWm0yLjcwMS0yLjUxcy0uMTMtMS44MTgtMS43NzMtMi4yODZjLTEuNjQ0LS40NjktMi42MTIgMS4wMzgtMi42MTIgMS4wMzhaTTguNTcgMTguMjNjLTQuNzQ5IDEuMjc5LTcuMjYxLTQuMjI0LTguMDIxLTcuMDhDLjE5NyA5LjgzMS4wNDQgOC44MzIuMDAzIDguMTg4Yy0uMDQ3LS43My40NTUtLjUyIDEuNDE1LS4zNTQuNjc3LjExOCAyLjMuMjYxIDQuMzA4LS4yOGExMS4yOCAxMS4yOCAwIDAgMCAyLjQxLS45NTZjLS4wNTguMTk3LS4xMTQuNC0uMTcuNjEtLjQzMyAxLjYxOC0uODI3IDQuMDU1LS42MzIgNi40MjYtMS45NzYuNzMyLTIuMjY3IDIuNDIzLTIuMjY3IDIuNDIzbDIuNTI0LS43MTVjLjIyNyAxLjAwMi42IDEuOTg3IDEuMTUgMi44MzhhNS45MTQgNS45MTQgMCAwIDEtLjE3MS4wNDlabS00LjE4OC02LjI5OGMxLjI2NS0uMzMzIDEuMzYzLTEuNjMxIDEuMzYzLTEuNjMxbC0zLjM3NC44ODhzLjc0NSAxLjA3NiAyLjAxLjc0M1oiLz48L3N2Zz4%3D)
-![Cypress](https://img.shields.io/badge/Cypress-21262D?style=for-the-badge&logo=cypress&logoColor=white)
-
----
-
-<p align="center">💬 Always open to talking about AI integrations, full-stack architecture, or freelance/contract work — reach out anytime.</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React / React Native" title="React / React Native" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET" title="ASP.NET" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" title="Azure" width="48" height="48" />
+  <img src="assets/icons/azuredevops.svg" alt="Azure DevOps" title="Azure DevOps" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />
+  <img src="assets/icons/snowflake.svg" alt="Snowflake" title="Snowflake" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
+  <img src="assets/icons/claude.svg" alt="Claude" title="Claude" width="48" height="48" />
+  <img src="assets/icons/openai.svg" alt="OpenAI" title="OpenAI" width="48" height="48" />
+  <img src="assets/icons/playwright.svg" alt="Playwright" title="Playwright" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" title="Cypress" width="48" height="48" />
+</p>
