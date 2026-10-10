@@ -1,69 +1,79 @@
-<h1 align="center">Hi, I'm Ephraim-Ed Velasco 👋</h1>
-<h3 align="center">Software Engineer building full-stack, AI-powered applications</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ev-horizontal-dark-1200.png" />
+  <img alt="ephraim-ed velasco" src="assets/ev-horizontal-light-1200.png" width="100%" />
+</picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ephraimvelasco"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ephraimvelasco@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ephraimvelasco"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=23D18B&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Ephraim-Ed;Software+Engineer+%40+Microsource+Inc.;Building+full-stack%2C+AI-powered+apps;Shipping+Claude+%2B+OpenAI+to+production" />
+    <img alt="Hi, I'm Ephraim-Ed — Software Engineer building full-stack, AI-powered applications" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F7B52&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Ephraim-Ed;Software+Engineer+%40+Microsource+Inc.;Building+full-stack%2C+AI-powered+apps;Shipping+Claude+%2B+OpenAI+to+production" />
+  </picture>
 </p>
 
----
+<p align="center">
+  <a href="https://www.ephraimvelasco.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-21262D?style=for-the-badge&logo=googlechrome&logoColor=23D18B" /></a>
+  <a href="https://linkedin.com/in/ephraimvelasco"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjMjNEMThCIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" /></a>
+  <a href="mailto:ephraimvelasco@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=23D18B" /></a>
+  <a href="https://github.com/Ephraim-ed"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=23D18B" /></a>
+</p>
 
-### About Me
+## $ whoami
 
-- 🔭 Software Engineer at **Microsource Inc.**, building enterprise web applications, internal developer tools, and AI-powered solutions used by hundreds of employees
+- 🔭 Software Engineer at **Microsource Inc.**, building enterprise web applications, internal developer tools, and AI-powered solutions
 - 🤖 Focused on integrating AI/LLM APIs (Claude, OpenAI) into real, production-grade applications — not just prototypes
 - 🛠️ Comfortable across the stack: frontend, backend, databases, cloud infra, and the AI layer tying it together
 - 🎓 BS Computer Engineering, Bulacan State University
 - 📍 Based in Malolos City, Bulacan, Philippines
 
----
-
-### Tech Stack
+## $ ls ~/stack
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-21262D?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-21262D?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-21262D?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xLjE5NCA3LjU0M3Y4LjkxM2MwIDEuMTAzLjU4OCAyLjEyMiAxLjU0NCAyLjY3NGw3LjcxOCA0LjQ1NmEzLjA4NiAzLjA4NiAwIDAgMCAzLjA4OCAwbDcuNzE4LTQuNDU2YTMuMDg3IDMuMDg3IDAgMCAwIDEuNTQ0LTIuNjc0VjcuNTQzYTMuMDg0IDMuMDg0IDAgMCAwLTEuNTQ0LTIuNjczTDEzLjU0NC40MTRhMy4wODYgMy4wODYgMCAwIDAtMy4wODggMEwyLjczOCA0Ljg3YTMuMDg1IDMuMDg1IDAgMCAwLTEuNTQ0IDIuNjczWm01LjQwMyAyLjkxNHYzLjA4N2EuNzcuNzcgMCAwIDAgLjc3Mi43NzIuNzczLjc3MyAwIDAgMCAuNzcyLS43NzIuNzczLjc3MyAwIDAgMSAxLjMxNy0uNTQ2Ljc3NS43NzUgMCAwIDEgLjIyNi41NDYgMi4zMTQgMi4zMTQgMCAxIDEtNC42MzEgMHYtMy4wODdjMC0uNjE1LjI0NC0xLjIwMy42NzktMS42MzdhMi4zMTIgMi4zMTIgMCAwIDEgMy4yNzQgMGMuNDM0LjQzNC42NzggMS4wMjMuNjc4IDEuNjM3YS43NjkuNzY5IDAgMCAxLS4yMjYuNTQ1Ljc2Ny43NjcgMCAwIDEtMS4wOTEgMCAuNzcuNzcgMCAwIDEtLjIyNi0uNTQ1Ljc3Ljc3IDAgMCAwLS43NzItLjc3Mi43NzEuNzcxIDAgMCAwLS43NzIuNzcyWm0xMi4zNSAzLjA4N2EuNzcuNzcgMCAwIDEtLjc3Mi43NzJoLS43NzJ2Ljc3MmEuNzczLjc3MyAwIDAgMS0xLjU0NCAwdi0uNzcyaC0xLjU0NHYuNzcyYS43NzMuNzczIDAgMCAxLTEuMzE3LjU0Ni43NzUuNzc1IDAgMCAxLS4yMjYtLjU0NnYtLjc3MkgxMmEuNzcxLjc3MSAwIDEgMSAwLTEuNTQ0aC43NzJ2LTEuNTQzSDEyYS43Ny43NyAwIDEgMSAwLTEuNTQ0aC43NzJ2LS43NzJhLjc3My43NzMgMCAwIDEgMS4zMTctLjU0Ni43NzUuNzc1IDAgMCAxIC4yMjYuNTQ2di43NzJoMS41NDR2LS43NzJhLjc3My43NzMgMCAwIDEgMS41NDQgMHYuNzcyaC43NzJhLjc3Mi43NzIgMCAwIDEgMCAxLjU0NGgtLjc3MnYxLjU0M2guNzcyYS43NzYuNzc2IDAgMCAxIC43NzIuNzcyWm0tMy4wODgtMi4zMTVoLTEuNTQ0djEuNTQzaDEuNTQ0di0xLjU0M1oiLz48L3N2Zz4%3D)
+![SQL](https://img.shields.io/badge/SQL-21262D?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-21262D?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-21262D?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-21262D?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-21262D?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-21262D?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-21262D?style=for-the-badge&logo=fastapi&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-21262D?style=for-the-badge&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-21262D?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Cloud, Data & DevOps**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4zNzkgMjMuMzQzYTEuNjIgMS42MiAwIDAgMCAxLjUzNi0yLjE0di4wMDJMMTcuMzUgMS43NkExLjYyIDEuNjIgMCAwIDAgMTUuODE2LjY1N0g4LjE4NEExLjYyIDEuNjIgMCAwIDAgNi42NSAxLjc2TC4wODYgMjEuMjA0YTEuNjIgMS42MiAwIDAgMCAxLjUzNiAyLjEzOWg0Ljc0MWExLjYyIDEuNjIgMCAwIDAgMS41MzUtMS4xMDNsLjk3Ny0yLjg5MiA0Ljk0NyAzLjY3NWMuMjguMjA4LjYxOC4zMi45NjYuMzJtLTMuMDg0LTEyLjUzMSAzLjYyNCAxMC43MzlhLjU0LjU0IDAgMCAxLS41MS43MTN2LS4wMDFoLS4wM2EuNTQuNTQgMCAwIDEtLjMyMi0uMTA2bC05LjI4Ny02LjloNC44NTNtNi4zMTMgNy4wMDZjLjExNi0uMzI2LjEzLS42OTQuMDA3LTEuMDU4TDkuNzkgMS43NmExLjcyMiAxLjcyMiAwIDAgMC0uMDA3LS4wMmg2LjAzNGEuNTQuNTQgMCAwIDEgLjUxMi4zNjZsNi41NjIgMTkuNDQ1YS41NC41NCAwIDAgMS0uMzM4LjY4NCIvPjwvc3ZnPg%3D%3D)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0wIDguODc3TDIuMjQ3IDUuOTFsOC40MDUtMy40MTZWLjAyMmw3LjM3IDUuMzkzTDIuOTY2IDguMzM4djguMjI1TDAgMTUuNzA3em0yNC00LjQ1djE0LjY1MWwtNS43NTMgNC45LTkuMzAzLTMuMDU3djMuMDU2bC01Ljk3OC03LjQxNiAxNS4wNTcgMS43OThWNS40MTV6Ii8%2BPC9zdmc%2B)
+![Vercel](https://img.shields.io/badge/Vercel-21262D?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-21262D?style=for-the-badge&logo=snowflake&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-21262D?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-21262D?style=for-the-badge&logo=git&logoColor=white)
 
 **AI & Testing**
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-21262D?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2NTUtMS45NzI4VjExLjZhLjc2NjQuNzY2NCAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NzY1IDguMTA0MnYtNS42NzcyYS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM4LS4wNTY3VjYuMDc0MmE0LjQ5OTIgNC40OTkyIDAgMCAxIDcuMzc1Ny0zLjQ1MzdsLS4xNDIuMDgwNUw4LjcwNCA1LjQ1OWEuNzk0OC43OTQ4IDAgMCAwLS4zOTI3LjY4MTN6bTEuMDk3Ni0yLjM2NTRsMi42MDItMS40OTk4IDIuNjA2OSAxLjQ5OTh2Mi45OTk0bC0yLjU5NzQgMS40OTk3LTIuNjA2Ny0xLjQ5OTdaIi8%2BPC9zdmc%2B)
+![Playwright](https://img.shields.io/badge/Playwright-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy45OTYgNy40NjJjLS4wNTYuODM3LS4yNTcgMi4xMzUtLjcxNiAzLjg1LS45OTUgMy43MTUtNC4yNyAxMC44NzQtMTAuNDIgOS4yMjctNi4xNS0xLjY1LTUuNDA3LTkuNDg3LTQuNDEyLTEzLjIwMS40Ni0xLjcxNi45MzQtMi45NCAxLjMwNS0zLjY5NC40Mi0uODUzLjg0Ni0uMjg5IDEuODE1LjUyMy42ODQuNTczIDIuNDEgMS43OTEgNS4wMTEgMi40ODggMi42MDEuNjk3IDQuNzA2LjUwNiA1LjU4My4zNTIgMS4yNDUtLjIxOSAxLjg5Ny0uNDk0IDEuODM0LjQ1NVptLTkuODA3IDMuODYzcy0uMTI3LTEuODE5LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY3LTIuNjEzIDEuMDQtMi42MTMgMS4wNFptNC4wNTggNC41MzktNy43NjktMi4xNzJzLjQ0NiAyLjMwNiAzLjMzOCAzLjE1M2MyLjg2Mi44MzYgNC40My0uOTggNC40My0uOTgxWm0yLjcwMS0yLjUxcy0uMTMtMS44MTgtMS43NzMtMi4yODZjLTEuNjQ0LS40NjktMi42MTIgMS4wMzgtMi42MTIgMS4wMzhaTTguNTcgMTguMjNjLTQuNzQ5IDEuMjc5LTcuMjYxLTQuMjI0LTguMDIxLTcuMDhDLjE5NyA5LjgzMS4wNDQgOC44MzIuMDAzIDguMTg4Yy0uMDQ3LS43My40NTUtLjUyIDEuNDE1LS4zNTQuNjc3LjExOCAyLjMuMjYxIDQuMzA4LS4yOGExMS4yOCAxMS4yOCAwIDAgMCAyLjQxLS45NTZjLS4wNTguMTk3LS4xMTQuNC0uMTcuNjEtLjQzMyAxLjYxOC0uODI3IDQuMDU1LS42MzIgNi40MjYtMS45NzYuNzMyLTIuMjY3IDIuNDIzLTIuMjY3IDIuNDIzbDIuNTI0LS43MTVjLjIyNyAxLjAwMi42IDEuOTg3IDEuMTUgMi44MzhhNS45MTQgNS45MTQgMCAwIDEtLjE3MS4wNDlabS00LjE4OC02LjI5OGMxLjI2NS0uMzMzIDEuMzYzLTEuNjMxIDEuMzYzLTEuNjMxbC0zLjM3NC44ODhzLjc0NSAxLjA3NiAyLjAxLjc0M1oiLz48L3N2Zz4%3D)
+![Cypress](https://img.shields.io/badge/Cypress-21262D?style=for-the-badge&logo=cypress&logoColor=white)
 
----
-
-### GitHub Stats
+## $ git log --stat
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ephraimvelasco&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ephraimvelasco&layout=compact&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ephraim-ed&show_icons=true&bg_color=0d1117&title_color=23d18b&icon_color=23d18b&ring_color=23d18b&text_color=e6edf3&border_color=30363d&border_radius=6" />
+    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Ephraim-ed&show_icons=true&bg_color=ffffff&title_color=0f7b52&icon_color=0f7b52&ring_color=0f7b52&text_color=1f2328&border_color=d0d7de&border_radius=6" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-ed&layout=compact&bg_color=0d1117&title_color=23d18b&icon_color=23d18b&ring_color=23d18b&text_color=e6edf3&border_color=30363d&border_radius=6" />
+    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-ed&layout=compact&bg_color=ffffff&title_color=0f7b52&icon_color=0f7b52&ring_color=0f7b52&text_color=1f2328&border_color=d0d7de&border_radius=6" />
+  </picture>
 </p>
 
 ---
