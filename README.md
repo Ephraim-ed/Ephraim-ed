@@ -1,12 +1,14 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/ev-horizontal-dark-1200.png" />
-  <img alt="ephraim-ed velasco" src="assets/ev-horizontal-light-1200.png" width="100%" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ev-horizontal-dark-1200.png" />
+    <img alt="ephraim-ed velasco" src="assets/ev-horizontal-light-1200.png" width="600" />
+  </picture>
+</p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=23D18B&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Ephraim-Ed;Software+Engineer+%40+Microsource+Inc.;Building+full-stack%2C+AI-powered+apps;Shipping+Claude+%2B+OpenAI+to+production" />
-    <img alt="Hi, I'm Ephraim-Ed — Software Engineer building full-stack, AI-powered applications" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0F7B52&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Ephraim-Ed;Software+Engineer+%40+Microsource+Inc.;Building+full-stack%2C+AI-powered+apps;Shipping+Claude+%2B+OpenAI+to+production" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=23D18B&center=true&multiline=true&width=700&height=70&lines=Software+Engineer%2C+building+enterprise+web+applications%2C;internal+developer+tools%2C+and+AI-powered+solutions" />
+    <img alt="Software Engineer, building enterprise web applications, internal developer tools, and AI-powered solutions" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=2000&color=0F7B52&center=true&multiline=true&width=700&height=70&lines=Software+Engineer%2C+building+enterprise+web+applications%2C;internal+developer+tools%2C+and+AI-powered+solutions" />
   </picture>
 </p>
 
@@ -16,16 +18,6 @@
   <a href="mailto:ephraimvelasco@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-21262D?style=for-the-badge&logo=gmail&logoColor=23D18B" /></a>
   <a href="https://github.com/Ephraim-ed"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262D?style=for-the-badge&logo=github&logoColor=23D18B" /></a>
 </p>
-
-## $ whoami
-
-- 🔭 Software Engineer at **Microsource Inc.**, building enterprise web applications, internal developer tools, and AI-powered solutions
-- 🤖 Focused on integrating AI/LLM APIs (Claude, OpenAI) into real, production-grade applications — not just prototypes
-- 🛠️ Comfortable across the stack: frontend, backend, databases, cloud infra, and the AI layer tying it together
-- 🎓 BS Computer Engineering, Bulacan State University
-- 📍 Based in Malolos City, Bulacan, Philippines
-
-## $ ls ~/stack
 
 **Languages**
 
@@ -62,19 +54,6 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMi4yODE5IDkuODIxMWE1Ljk4NDcgNS45ODQ3IDAgMCAwLS41MTU3LTQuOTEwOCA2LjA0NjIgNi4wNDYyIDAgMCAwLTYuNTA5OC0yLjlBNi4wNjUxIDYuMDY1MSAwIDAgMCA0Ljk4MDcgNC4xODE4YTUuOTg0NyA1Ljk4NDcgMCAwIDAtMy45OTc3IDIuOSA2LjA0NjIgNi4wNDYyIDAgMCAwIC43NDI3IDcuMDk2NiA1Ljk4IDUuOTggMCAwIDAgLjUxMSA0LjkxMDcgNi4wNTEgNi4wNTEgMCAwIDAgNi41MTQ2IDIuOTAwMUE1Ljk4NDcgNS45ODQ3IDAgMCAwIDEzLjI1OTkgMjRhNi4wNTU3IDYuMDU1NyAwIDAgMCA1Ljc3MTgtNC4yMDU4IDUuOTg5NCA1Ljk4OTQgMCAwIDAgMy45OTc3LTIuOTAwMSA2LjA1NTcgNi4wNTU3IDAgMCAwLS43NDc1LTcuMDcyOXptLTkuMDIyIDEyLjYwODFhNC40NzU1IDQuNDc1NSAwIDAgMS0yLjg3NjQtMS4wNDA4bC4xNDE5LS4wODA0IDQuNzc4My0yLjc1ODJhLjc5NDguNzk0OCAwIDAgMCAuMzkyNy0uNjgxM3YtNi43MzY5bDIuMDIgMS4xNjg2YS4wNzEuMDcxIDAgMCAxIC4wMzguMDUydjUuNTgyNmE0LjUwNCA0LjUwNCAwIDAgMS00LjQ5NDUgNC40OTQ0em0tOS42NjA3LTQuMTI1NGE0LjQ3MDggNC40NzA4IDAgMCAxLS41MzQ2LTMuMDEzN2wuMTQyLjA4NTIgNC43ODMgMi43NTgyYS43NzEyLjc3MTIgMCAwIDAgLjc4MDYgMGw1Ljg0MjgtMy4zNjg1djIuMzMyNGEuMDgwNC4wODA0IDAgMCAxLS4wMzMyLjA2MTVMOS43NCAxOS45NTAyYTQuNDk5MiA0LjQ5OTIgMCAwIDEtNi4xNDA4LTEuNjQ2NHpNMi4zNDA4IDcuODk1NmE0LjQ4NSA0LjQ4NSAwIDAgMSAyLjM2NTUtMS45NzI4VjExLjZhLjc2NjQuNzY2NCAwIDAgMCAuMzg3OS42NzY1bDUuODE0NCAzLjM1NDMtMi4wMjAxIDEuMTY4NWEuMDc1Ny4wNzU3IDAgMCAxLS4wNzEgMGwtNC44MzAzLTIuNzg2NUE0LjUwNCA0LjUwNCAwIDAgMSAyLjM0MDggNy44NzJ6bTE2LjU5NjMgMy44NTU4TDEzLjEwMzggOC4zNjQgMTUuMTE5MiA3LjJhLjA3NTcuMDc1NyAwIDAgMSAuMDcxIDBsNC44MzAzIDIuNzkxM2E0LjQ5NDQgNC40OTQ0IDAgMCAxLS42NzY1IDguMTA0MnYtNS42NzcyYS43OS43OSAwIDAgMC0uNDA3LS42Njd6bTIuMDEwNy0zLjAyMzFsLS4xNDItLjA4NTItNC43NzM1LTIuNzgxOGEuNzc1OS43NzU5IDAgMCAwLS43ODU0IDBMOS40MDkgOS4yMjk3VjYuODk3NGEuMDY2Mi4wNjYyIDAgMCAxIC4wMjg0LS4wNjE1bDQuODMwMy0yLjc4NjZhNC40OTkyIDQuNDk5MiAwIDAgMSA2LjY4MDIgNC42NnpNOC4zMDY1IDEyLjg2M2wtMi4wMi0xLjE2MzhhLjA4MDQuMDgwNCAwIDAgMS0uMDM4LS4wNTY3VjYuMDc0MmE0LjQ5OTIgNC40OTkyIDAgMCAxIDcuMzc1Ny0zLjQ1MzdsLS4xNDIuMDgwNUw4LjcwNCA1LjQ1OWEuNzk0OC43OTQ4IDAgMCAwLS4zOTI3LjY4MTN6bTEuMDk3Ni0yLjM2NTRsMi42MDItMS40OTk4IDIuNjA2OSAxLjQ5OTh2Mi45OTk0bC0yLjU5NzQgMS40OTk3LTIuNjA2Ny0xLjQ5OTdaIi8%2BPC9zdmc%2B)
 ![Playwright](https://img.shields.io/badge/Playwright-21262D?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjd2hpdGUiIHJvbGU9ImltZyIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMy45OTYgNy40NjJjLS4wNTYuODM3LS4yNTcgMi4xMzUtLjcxNiAzLjg1LS45OTUgMy43MTUtNC4yNyAxMC44NzQtMTAuNDIgOS4yMjctNi4xNS0xLjY1LTUuNDA3LTkuNDg3LTQuNDEyLTEzLjIwMS40Ni0xLjcxNi45MzQtMi45NCAxLjMwNS0zLjY5NC40Mi0uODUzLjg0Ni0uMjg5IDEuODE1LjUyMy42ODQuNTczIDIuNDEgMS43OTEgNS4wMTEgMi40ODggMi42MDEuNjk3IDQuNzA2LjUwNiA1LjU4My4zNTIgMS4yNDUtLjIxOSAxLjg5Ny0uNDk0IDEuODM0LjQ1NVptLTkuODA3IDMuODYzcy0uMTI3LTEuODE5LTEuNzczLTIuMjg2Yy0xLjY0NC0uNDY3LTIuNjEzIDEuMDQtMi42MTMgMS4wNFptNC4wNTggNC41MzktNy43NjktMi4xNzJzLjQ0NiAyLjMwNiAzLjMzOCAzLjE1M2MyLjg2Mi44MzYgNC40My0uOTggNC40My0uOTgxWm0yLjcwMS0yLjUxcy0uMTMtMS44MTgtMS43NzMtMi4yODZjLTEuNjQ0LS40NjktMi42MTIgMS4wMzgtMi42MTIgMS4wMzhaTTguNTcgMTguMjNjLTQuNzQ5IDEuMjc5LTcuMjYxLTQuMjI0LTguMDIxLTcuMDhDLjE5NyA5LjgzMS4wNDQgOC44MzIuMDAzIDguMTg4Yy0uMDQ3LS43My40NTUtLjUyIDEuNDE1LS4zNTQuNjc3LjExOCAyLjMuMjYxIDQuMzA4LS4yOGExMS4yOCAxMS4yOCAwIDAgMCAyLjQxLS45NTZjLS4wNTguMTk3LS4xMTQuNC0uMTcuNjEtLjQzMyAxLjYxOC0uODI3IDQuMDU1LS42MzIgNi40MjYtMS45NzYuNzMyLTIuMjY3IDIuNDIzLTIuMjY3IDIuNDIzbDIuNTI0LS43MTVjLjIyNyAxLjAwMi42IDEuOTg3IDEuMTUgMi44MzhhNS45MTQgNS45MTQgMCAwIDEtLjE3MS4wNDlabS00LjE4OC02LjI5OGMxLjI2NS0uMzMzIDEuMzYzLTEuNjMxIDEuMzYzLTEuNjMxbC0zLjM3NC44ODhzLjc0NSAxLjA3NiAyLjAxLjc0M1oiLz48L3N2Zz4%3D)
 ![Cypress](https://img.shields.io/badge/Cypress-21262D?style=for-the-badge&logo=cypress&logoColor=white)
-
-## $ git log --stat
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ephraim-ed&show_icons=true&bg_color=0d1117&title_color=23d18b&icon_color=23d18b&ring_color=23d18b&text_color=e6edf3&border_color=30363d&border_radius=6" />
-    <img alt="GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=Ephraim-ed&show_icons=true&bg_color=ffffff&title_color=0f7b52&icon_color=0f7b52&ring_color=0f7b52&text_color=1f2328&border_color=d0d7de&border_radius=6" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-ed&layout=compact&bg_color=0d1117&title_color=23d18b&icon_color=23d18b&ring_color=23d18b&text_color=e6edf3&border_color=30363d&border_radius=6" />
-    <img alt="Top languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephraim-ed&layout=compact&bg_color=ffffff&title_color=0f7b52&icon_color=0f7b52&ring_color=0f7b52&text_color=1f2328&border_color=d0d7de&border_radius=6" />
-  </picture>
-</p>
 
 ---
 
