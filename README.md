@@ -36,7 +36,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" width="48" height="48" />
   <img src="assets/icons/snowflake.svg" alt="Snowflake" title="Snowflake" width="48" height="48" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" width="48" height="48" />
+  <img src="assets/icons/microsoftsqlserver.svg" alt="SQL Server (SSMS)" title="SQL Server (SSMS)" width="48" height="48" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="48" height="48" />
   <img src="assets/icons/claude.svg" alt="Claude" title="Claude" width="48" height="48" />
   <img src="assets/icons/openai.svg" alt="OpenAI" title="OpenAI" width="48" height="48" />
